@@ -1,5 +1,5 @@
-# <div align="center">👋 Hi, I'm **Vijay Kumar** 
-## 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🌟 Innovation Driver
+# <div align="center"> Hi, I'm **Vijay Kumar** 
+## Full Stack Developer |  AI Enthusiast |  Innovation Driver
 
 <div align="center">
   
@@ -9,13 +9,13 @@
 
 ---
 
-## 🎯 **Current Focus**
+##  **Current Focus**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 **Working On**
+###  **Working On**
 ```javascript
 const currentProject = {
   name: "Food Ordering App",
@@ -28,7 +28,7 @@ const currentProject = {
 </td>
 <td width="50%">
 
-### 🌱 **Learning**
+###  **Learning**
 ```python
 learning_stack = [
     "Generative AI (LLMs)",
@@ -45,11 +45,11 @@ learning_stack = [
 
 ---
 
-## 💼 **Professional Highlights**
+## **Professional Highlights**
 
 <div align="center">
 
-| 🌐 **Portfolio** | 📧 **Contact** | 💬 **Expertise** |
+|  **Portfolio** | **Contact** |  **Expertise** |
 |:---:|:---:|:---:|
 | [myportfliosn.vercel.app](https://myportfliosn.vercel.app/) | vr7797387@gmail.com | Node.js, React, Vue, AI/ML |
 
@@ -57,7 +57,7 @@ learning_stack = [
 
 ---
 
-## 🌐 **Connect With Me**
+##  **Connect With Me**
 
 <div align="center">
 
@@ -72,9 +72,9 @@ learning_stack = [
 
 ---
 
-## 🛠️ **Tech Arsenal**
+##  **Tech Arsenal**
 
-### 💻 **Frontend Development**
+### **Frontend Development**
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -86,7 +86,7 @@ learning_stack = [
 
 </div>
 
-### 🎨 **Styling & Design**
+###  **Styling & Design**
 <div align="center">
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -96,7 +96,7 @@ learning_stack = [
 
 </div>
 
-### ⚙️ **Backend & Database**
+###  **Backend & Database**
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -107,7 +107,7 @@ learning_stack = [
 
 </div>
 
-### 🤖 **AI/ML & Data Science**
+###  **AI/ML & Data Science**
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -118,7 +118,7 @@ learning_stack = [
 
 </div>
 
-### 🛠️ **Development Tools**
+### **Development Tools**
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -128,7 +128,7 @@ learning_stack = [
 
 </div>
 
-### 📱 **Mobile Development**
+###  **Mobile Development**
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -138,7 +138,7 @@ learning_stack = [
 
 ---
 
-## 📊 **GitHub Analytics**
+##  **GitHub Analytics**
 
 <div align="center">
 <table>
@@ -165,7 +165,7 @@ learning_stack = [
 
 ---
 
-## 🎯 **Contribution Graph**
+## **Contribution Graph**
 
 <div align="center">
 
@@ -175,7 +175,7 @@ learning_stack = [
 
 ---
 
-## 🏆 **GitHub Trophies**
+## **GitHub Trophies**
 
 <div align="center">
 
@@ -185,7 +185,7 @@ learning_stack = [
 
 ---
 
-## 📈 **Profile Views**
+## **Profile Views**
 
 <div align="center">
 
