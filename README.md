@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay kumar</h1>
+<h1 align="center">Hi , I'm Vijay kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on [food ordering app](https://github.com/Vija047/food-ordering-app)
