@@ -1,10 +1,10 @@
-## 👋 About Me
+##  About Me
 
-- 🙋‍♂️ I’m **Vijay Kumar**
-- 👀 I’m interested in **Web Development**, **Mobile App Development**, and **AI**
-- 🌱 I’m currently learning **Generative AI (LLMs, diffusion models)** and improving my **full stack skills**
-- 🤝 Love to **collaborate with other developers**
-- 📫 Reach me at: [vr7797387@gmail.com](mailto:vr7797387@gmail.com)
+-  I’m **Vijay Kumar**
+-  I’m interested in **Web Development**, **Mobile App Development**, and **AI**
+-  I’m currently learning **Generative AI (LLMs, diffusion models)** and improving my **full stack skills**
+-  Love to **collaborate with other developers**
+-  Reach me at: [vr7797387@gmail.com](mailto:vr7797387@gmail.com)
 
 ## 🌐 Socials
 
