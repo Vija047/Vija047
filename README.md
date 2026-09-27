@@ -1,50 +1,222 @@
-##  About Me
+# 👋 Hey, I'm Vijay Kumar
 
--  I’m **Vijay Kumar**
--  I’m interested in **Web Development**, **Mobile App Development**, and **AI**
--  I’m currently learning **Generative AI (LLMs, diffusion models)** and improving my **full stack skills**
--  Love to **collaborate with other developers**
--  Reach me at: [vr7797387@gmail.com](mailto:vr7797387@gmail.com)
+### Full-Stack Developer • AI/ML Enthusiast • Mobile App Developer
 
-## Socials
+I build **modern web applications, mobile apps, AI-powered products, and developer tools**.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vijayakumar.rathod.5680/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vijaykumar_.rathod/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-kumar-rathod-58a846280/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vijayra20362586)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vijaykumar222325/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vr7798cky/)
+Currently exploring **Generative AI, LLMs, AI Agents, RAG, diffusion models, and scalable full-stack systems.**
 
-###  Tech Stack
+```text
+🌐 Web Development
+📱 Mobile Development
+🤖 Artificial Intelligence
+🧠 Generative AI
+☁️ Cloud & Deployment
+🚀 Product Building
+```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vija047&show_icons=true&locale=en&layout=compact" alt="vija047" /></p>
+<!-- SEASONAL HERO -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vija047&show_icons=true&locale=en" alt="vija047" /></p>
+<p align="center">
+  <img src="./assets/season.svg" width="100%" alt="Seasonal animation"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vija047&" alt="vija047" /></p>
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+* 💻 Building applications with **React, Node.js, Next.js and React Native**
+* 🤖 Learning and building with **LLMs, RAG, AI Agents and Generative AI**
+* 📱 Interested in **cross-platform mobile development**
+* ☁️ Exploring **AWS, Firebase, Vercel and modern cloud architecture**
+* 🧩 Love solving real-world problems through software
+* 🤝 Open to collaborating with developers and builders
+* 🔥 Currently focused on becoming a stronger **AI Full-Stack Developer**
+
+### 💡 Currently Learning
+
+```text
+LLMs → RAG → AI Agents → MCP → Vector Databases
+        ↓
+React → Node.js → APIs → Cloud → Production
+        ↓
+React Native → Android → Mobile AI
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Mobile
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,android,expo" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### AI / Cloud / Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,linux,git,github,postman,figma" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 AI Outreach
+
+AI-powered outreach platform that helps users analyze websites and generate personalized outreach messages.
+
+**Tech:** React • Node.js • AI • APIs
+
+---
+
+### 🎉 FestBuzzzZ
+
+A platform for students to discover and register for college festivals.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### 🩺 AI Doctor Assistant
+
+An AI-powered assistant exploring **MCP, tool calling, databases and agentic workflows**.
+
+**Tech:** React • FastAPI • Python • SQLAlchemy • AI
+
+---
+
+### 📱 Mobile AI Products
+
+Currently experimenting with **React Native + AI-powered mobile experiences**.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vija047&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vija047&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vija047&hide_border=true&theme=transparent" width="70%"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vija047/vija047/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+☑ Improve Full-Stack Development
+☑ Build production-ready applications
+☑ Learn advanced Generative AI
+☑ Build AI Agents
+☑ Contribute to Open Source
+☑ Improve DSA
+☑ Build React Native applications
+☑ Work with international developers
+☐ Launch more products
+```
+
+---
+
+# 📈 My Developer Journey
+
+```text
+Web Development
+       │
+       ▼
+Full Stack Development
+       │
+       ▼
+Cloud & Production
+       │
+       ▼
+AI / ML
+       │
+       ▼
+Generative AI
+       │
+       ▼
+LLMs + RAG + AI Agents
+       │
+       ▼
+AI-Powered Products 🚀
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vr7797387@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vijay-kumar-rathod-58a846280/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vija047">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/vijaykumar_.rathod/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/vijaykumar222325/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Build. Learn. Experiment. Repeat.
+
+**Turning ideas into products with code + AI. 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=vija047&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
