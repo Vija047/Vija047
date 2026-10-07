@@ -1,208 +1,249 @@
- <div align="center">
+<!-- ===================== HEADER / HERO ===================== -->
+<!-- TIP: To get the exact hero image with the photo, export your banner as assets/banner.png and
+     replace the <img> below with: <img src="./assets/banner.png" width="100%" alt="banner"/> -->
 
-# Vijay Kumar Rathod
+<div align="center">
 
-### AI Full-Stack Developer · Generative AI · Mobile App Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:0f1b3d,100:1b2a5e&height=230&section=header&text=Vijay%20Kumar%20Rathod&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Hey%2C%20I%27m%20%E2%80%A2%20Build.%20Learn.%20Ship.%20Repeat.&descSize=18&descAlignY=66&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vijay+Kumar+%F0%9F%91%8B;Building+AI-Powered+Applications;Full-Stack+Web+%26+Mobile+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
+<a href="https://github.com/Vija047">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+Full-Stack+Developer;Generative+AI+Enthusiast;Mobile+App+Developer;Building+AI-powered+applications+that+solve+real-world+problems" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://github.com/Vija047">
-    <img src="https://img.shields.io/badge/GitHub-Vija047-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/vijay-kumar-rathod-58a846280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vr7797387@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vija047&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+<a href="https://github.com/Vija047"><img src="https://img.shields.io/badge/Vija047-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vr7797387@gmail.com"><img src="https://img.shields.io/badge/vr7797387@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ===================== STATUS CARDS ===================== -->
 
-Hi, I'm **Vijay Kumar Rathod**, a B.Tech Artificial Intelligence and Machine Learning student and developer interested in building useful software with modern web technologies and AI.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">💼<br/><sub>Open to</sub><br/><b>Internship</b></td>
+    <td align="center" width="20%">&lt;/&gt;<br/><sub>Working on</sub><br/><b>Real Projects</b></td>
+    <td align="center" width="20%">🧠<br/><sub>Learning</sub><br/><b>Generative AI</b></td>
+    <td align="center" width="20%">🤖<br/><sub>Exploring</sub><br/><b>AI Agents</b></td>
+    <td align="center" width="20%">📊<br/><sub>Building</sub><br/><b>in Public</b></td>
+  </tr>
+</table>
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at Dayananda Sagar University.
-- 💻 Building full-stack applications with React, Node.js, Express, and databases.
-- 🤖 Exploring Generative AI, LLM integration, RAG, and AI agents.
-- 📱 Exploring React Native and mobile application development.
-- ☁️ Learning cloud deployment, API design, authentication, and scalable architecture.
-- 🛠️ Interested in developer tools, workflow automation, and AI-powered SaaS products.
-- 🌱 Improving my problem-solving skills, data structures, algorithms, and software engineering fundamentals.
-- 🤝 Open to software engineering internships, open-source contributions, and meaningful collaborations.
+<!-- ===================== ABOUT ME ===================== -->
 
-**My goal:** Build software that solves real problems, serves real users, and creates measurable value.
+## 🧑‍💻 About Me
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 What I'm Building Toward
+Hi, I'm **Vijay Kumar Rathod**, a B.Tech Artificial Intelligence and Machine Learning student at **Dayananda Sagar University**.
 
-```text
-        FULL-STACK ENGINEERING
-                 |
-                 v
-       React + Node.js + APIs
-                 |
-                 v
-       Databases + Authentication
-                 |
-                 v
-         Deployment + DevOps
-                 |
-                 v
-       Generative AI + LLMs
-                 |
-                 v
-             RAG + AI Agents
-                 |
-                 v
-      AI-Powered Real-World Products
+I'm a developer interested in building practical applications using full-stack development, mobile technologies, and AI.
+
+- 🟨 Building full-stack web applications with React, Node.js and databases.
+- 🟣 Exploring Generative AI, LLM integration, RAG and AI agents.
+- 🟩 Developing mobile applications using React Native.
+- 🟧 Learning cloud deployment and scalable application architecture.
+- 🔵 Improving problem-solving skills and DSA in C++.
+- 🌸 Open to internships, open-source and meaningful collaborations.
+
+> 🎯 **My Goal:** Build software that solves real problems, serves real users, and creates measurable value.
+
+</td>
+<td width="50%" valign="top">
+
+```bash
+🔴 🟡 🟢   Currently Working On...
+
+ > Full-Stack Web Applications
+ > React Native Mobile Apps
+ > Generative AI & LLM Integration
+ > Real-World Projects & Open Source
+ > Improving DSA & System Design
+ > Preparing for Software Engineering Opportunities █
 ```
 
----
+<br/>
 
-## 🧰 Languages, Frameworks & Tools
+> ❝
+>
+> *Consistent progress every day leads to big results.*
+>
+> — **Vijay Kumar**
 
-### Frontend Development
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies"/>
-</p>
+<!-- ===================== TECH STACK ===================== -->
 
-### Backend & APIs
+## 🧱 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend technologies"/>
-</p>
+<div align="center">
 
-### Databases & Data
+<img src="https://img.shields.io/badge/All-1f6feb?style=for-the-badge" alt="All"/>
+<img src="https://img.shields.io/badge/Frontend-161b22?style=for-the-badge" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Backend-161b22?style=for-the-badge" alt="Backend"/>
+<img src="https://img.shields.io/badge/Mobile-161b22?style=for-the-badge" alt="Mobile"/>
+<img src="https://img.shields.io/badge/AI%2FML-161b22?style=for-the-badge" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Database-161b22?style=for-the-badge" alt="Database"/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-161b22?style=for-the-badge" alt="Cloud"/>
+<img src="https://img.shields.io/badge/Tools-161b22?style=for-the-badge" alt="Tools"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" alt="Database technologies"/>
-</p>
+<br/><br/>
 
-### AI & Generative AI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,py,mongodb,postgres,react,docker,git,vercel&theme=dark&perline=14" alt="Tech Stack"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and machine learning technologies"/>
-</p>
+<br/>
+<sub>React • Next.js • JavaScript • TypeScript • Tailwind CSS • Node.js • Express.js • Python • MongoDB • PostgreSQL • React Native • Docker • Git • Vercel</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-Model%20Integration-20232A?style=flat-square" alt="LLM integration"/>
-  <img src="https://img.shields.io/badge/RAG-Learning-20232A?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-20232A?style=flat-square" alt="AI agents"/>
-  <img src="https://img.shields.io/badge/Workflow%20Automation-Exploring-20232A?style=flat-square" alt="Workflow automation"/>
-</p>
+</div>
 
-### Mobile, Development Tools & Cloud
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,android,git,github,vscode,docker,vercel,linux" alt="Mobile and developer tools"/>
-</p>
+## 🚀 Featured Projects
 
-*The technology badges represent areas of interest and development. They are not a claim of equal proficiency in every listed tool.*
+<table width="100%">
+<tr>
 
----
+<td width="33%" valign="top">
 
-## 🌟 Featured Projects
+### ⚙️ AI Outreach &nbsp; ![Live](https://img.shields.io/badge/●%20Live-238636?style=flat-square)
 
-### 🤖 AI Outreach
+AI-powered outreach application to research websites and generate personalized cold emails, follow-ups and LinkedIn messages.
 
-An AI-powered outreach application designed to help users research websites and generate personalized outreach messages.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AI](https://img.shields.io/badge/AI-6e40c9?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-1f6feb?style=flat-square)
 
-- Website analysis and AI-assisted personalization.
-- Cold email, follow-up, and LinkedIn message generation.
-- Exploring ways to streamline outreach workflows.
+[🔗 Live Demo](https://github.com/Vija047) &nbsp;|&nbsp; [💻 View Code](https://github.com/Vija047)
 
-🔗 **[Live Application](https://ai-outreach-frontend-ten.vercel.app/)**
+</td>
 
-### 🎉 FestBuzzzZ
+<td width="33%" valign="top">
 
-A platform concept for helping students discover college fests and helping organizers manage event participation.
+### 🎉 FestBuzzZ &nbsp; ![In Progress](https://img.shields.io/badge/In%20Progress-8957e5?style=flat-square)
 
-- College fest discovery and registration workflows.
-- React-based frontend and Node.js backend.
-- API integration and database development.
+Platform to help students discover and register for college fests, and help organizers manage events.
 
-🔗 **[Live Application](https://fest-buzzz-z-mvp.vercel.app/)**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🧠 AI & Automation Projects
+[🔗 Live Demo](https://github.com/Vija047) &nbsp;|&nbsp; [💻 View Code](https://github.com/Vija047)
 
-Exploring practical applications of LLMs, intelligent workflows, API integrations, and AI-powered assistants.
+</td>
 
-- AI-assisted workflow automation.
-- Tool integrations and API-driven applications.
-- Experimentation with agentic systems and retrieval-augmented generation.
+<td width="33%" valign="top">
 
-🔗 **[Explore My Repositories](https://github.com/Vija047?tab=repositories)**
+### 🤖 AI & Automation
 
----
+Exploring LLMs, intelligent workflows and AI-powered assistants for real-world use cases.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6e40c9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1f6feb?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-238636?style=flat-square)
+
+[📂 Explore Repository →](https://github.com/Vija047)
+
+</td>
+
+</tr>
+</table>
+
+<div align="right"><a href="https://github.com/Vija047?tab=repositories">View all repositories →</a></div>
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<a href="https://github.com/Vija047">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vija047&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vijay's GitHub statistics"/>
-</a>
+<td width="25%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Vija047&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=f5c518&text_color=c9d1d9&count_private=true&include_all_commits=true&card_width=300" alt="GitHub Stats"/>
+</td>
 
-<a href="https://github.com/Vija047">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vija047&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
+<td width="25%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vija047&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&card_width=300" alt="Most Used Languages"/>
+</td>
+
+<td width="25%" align="center" valign="top">
+<img src="https://streak-stats.demolab.com?user=Vija047&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="Contribution Streak"/>
+</td>
+
+<td width="25%" align="center" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vija047&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=ffffff" alt="Activity Graph"/>
+<br/><sub><b>Code • Learn • Build • Repeat</b></sub>
+</td>
+
+</tr>
+</table>
+
+<!-- ===================== CURRENT FOCUS / CONNECT / FUN FACT ===================== -->
+
+<table width="100%">
+<tr>
+
+<td width="34%" valign="top">
+
+### 🎯 Current Focus
+
+- [ ] Strengthen DSA and coding interview fundamentals
+- [ ] Build production-ready full-stack applications
+- [ ] Develop practical AI-powered features using LLMs and APIs
+- [ ] Improve testing, deployment, security and architecture
+- [ ] Contribute to open-source projects
+- [ ] Secure a software engineering internship or developer role
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🤝 Let's Connect
+
+I'm always open to connecting with developers, AI enthusiasts, founders and engineers who enjoy building useful products.
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Vija047&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/Vija047"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vr7797387@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💡 Fun Fact
+
+```bash
+🔴 🟡 🟢
+
+ > coffee  = true
+ > code    = true
+ > ideas   = infinite
+ > mission = make_a_impact() █
+```
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vija047&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🧩 Problem Solving & Continuous Learning
-
-- Practicing Data Structures and Algorithms in C++.
-- Strengthening JavaScript, React, Node.js, and backend fundamentals.
-- Building and improving end-to-end applications.
-- Learning to explain technical decisions clearly and confidently.
-- Exploring open-source projects and collaborative development.
-
----
-
-## 🎯 Current Goals
-
-- [ ] Strengthen DSA and coding interview fundamentals.
-- [ ] Build production-quality full-stack applications.
-- [ ] Develop practical AI-powered features using LLMs and APIs.
-- [ ] Improve testing, deployment, security, and application architecture.
-- [ ] Contribute to open-source projects.
-- [ ] Secure a software engineering internship or developer role.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, AI enthusiasts, founders, and engineers who enjoy building useful products and solving real-world problems.
-
-<p align="center">
-  <a href="https://github.com/Vija047">GitHub</a> •
-  <a href="https://linkedin.com/in/vijay-kumar-rathod-58a846280/">LinkedIn</a> •
-  <a href="mailto:vr7797387@gmail.com">Email</a>
-</p>
-
 <div align="center">
 
-### "Build. Learn. Ship. Improve. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a5e,100:0b1020&height=100&section=footer" width="100%" alt="footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=110&section=footer" alt="Profile footer"/>
+**⭐ Build • Learn • Ship • Repeat ⭐**
 
 </div>
